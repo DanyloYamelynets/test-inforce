@@ -19,7 +19,7 @@ export const Image = styled.img`
 `;
 
 export const Title = styled.h3`
-text-align: center;
+  text-align: center;
   font-size: 24px;
   margin-bottom: 5px;
 `;
